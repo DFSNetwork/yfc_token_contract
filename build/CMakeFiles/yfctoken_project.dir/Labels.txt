@@ -1,0 +1,14 @@
+# Target labels
+ yfctoken_project
+# Source files and their labels
+/Users/joe/dfs-core/yfctoken/build/CMakeFiles/yfctoken_project
+/Users/joe/dfs-core/yfctoken/build/CMakeFiles/yfctoken_project.rule
+/Users/joe/dfs-core/yfctoken/build/CMakeFiles/yfctoken_project-complete.rule
+/Users/joe/dfs-core/yfctoken/build/yfctoken_project-prefix/src/yfctoken_project-stamp/yfctoken_project-install.rule
+/Users/joe/dfs-core/yfctoken/build/yfctoken_project-prefix/src/yfctoken_project-stamp/yfctoken_project-mkdir.rule
+/Users/joe/dfs-core/yfctoken/build/yfctoken_project-prefix/src/yfctoken_project-stamp/yfctoken_project-download.rule
+/Users/joe/dfs-core/yfctoken/build/yfctoken_project-prefix/src/yfctoken_project-stamp/yfctoken_project-update.rule
+/Users/joe/dfs-core/yfctoken/build/yfctoken_project-prefix/src/yfctoken_project-stamp/yfctoken_project-patch.rule
+/Users/joe/dfs-core/yfctoken/build/yfctoken_project-prefix/src/yfctoken_project-stamp/yfctoken_project-configure.rule
+/Users/joe/dfs-core/yfctoken/build/yfctoken_project-prefix/src/yfctoken_project-stamp/yfctoken_project-build.rule
+/Users/joe/dfs-core/yfctoken/build/yfctoken_project-prefix/src/yfctoken_project-stamp/yfctoken_project-test.rule

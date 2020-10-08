@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joe/dfs-core/yfctoken/include/yfctoken.hpp
+eosio/asset.hpp
+-
+eosio/eosio.hpp
+-
+eosio/system.hpp
+-
+string
+-
+cmath
+-
+
+/Users/joe/dfs-core/yfctoken/src/yfctoken.cpp
+yfctoken.hpp
+-
+

@@ -1,0 +1,3 @@
+/Users/joe/dfs-core/yfctoken/build/yfctoken/CMakeFiles/rebuild_cache.dir
+/Users/joe/dfs-core/yfctoken/build/yfctoken/CMakeFiles/edit_cache.dir
+/Users/joe/dfs-core/yfctoken/build/yfctoken/CMakeFiles/yfctoken.dir
